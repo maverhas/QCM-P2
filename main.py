@@ -178,6 +178,7 @@ def Quizz():
         elif syst_cot == "2":
             a = 1
         elif syst_cot== "3":
+            a = 2
         sleep(0.5)
         print("Good luck !")
         print("---------------------")
